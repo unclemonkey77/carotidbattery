@@ -1,0 +1,12 @@
+---
+id: 112
+title: Hope
+date: 2010-04-27T10:57:22-07:00
+author: brian
+layout: revision
+guid: http://www.carotidbattery.com/?p=112
+permalink: /2010/04/111-revision/
+---
+Hope is a magical thing. Similar to other elements of the Christian life, hope often runs counter to what makes sense, both from a cultural and an experiential perspective. Quickly list off in your mind or on paper the top 10 or more reasons why you don&#8217;t hope, or why you lose hope. It&#8217;s probably a very rational and defensible list. But look closely&#8230;see any commonalities? In my mental list I see things such as &#8220;What would cause the outcome to change now when none of the circumstances have?&#8221; &#8220;A+B has always equaled C for me in the past&#8230;why would they suddenly equal D now?&#8221; &#8220;These are just common problems we all have, why expect that I would be different or that now would be different?&#8221; My list is all based around what I&#8217;ve done, what I&#8217;ve had done to me, what I&#8217;ve seen others do. It&#8217;s a man-made list based entirely on man&#8217;s capability, and what hope is there in that?
+
+The opposite of hope is submission, cynicism, bitterness&#8230;and sometimes even the lesser-known evil of rational pragmatism. It&#8217;s a submission that means defeat, that all is lost and the stronghold has been captured. A trust in man&#8217;s capabilities will ultimately lead me, time and again, to this point. Why keep fighting if there&#8217;s nothing to fight for, right? All assets, capabilities, supplies and resources have been expended and I am still being attacked. I have no other options at my disposal, except one. Hope. Hope rolls in like a storm&#8230;from a place and at a time not at all expected, or previously experienced, or culturally prevalent. Hope says fight. Hope says fight because not only has the stronghold not been taken, but it never can be and that all claims against it are fraudulent, merely designed to discourage and defeat me, and nothing more. Hope says that I am not alone against my adversary&#8230;I&#8217;m not alone in that others are fighting, and have fought against the same adversary, and that he is already defeated. Hope says that what currently doesn&#8217;t seem or feel real or true is actually more real than my &#8220;reality&#8221;. This is the life of the Christian, then&#8230;to fight on in the midst of darkness, when all seems lost and we are utterly abandoned by all that we&#8217;ve come to rely upon. Hope.

@@ -1,0 +1,18 @@
+---
+id: 208
+title: Grandpa Ed
+date: 2011-03-27T13:02:18-07:00
+author: brian
+layout: revision
+guid: http://www.carotidbattery.com/?p=208
+permalink: /2011/03/207-revision/
+---
+<img class="alignleft" title="Grandpa Ed" src="https://i1.wp.com/lh5.googleusercontent.com/_gNb0_qqamzE/TY9zNS5I03I/AAAAAAAAJKw/JZAZpB9Sj4c/s288/IMG_20110326_113058.jpg?resize=288%2C215&#038;ssl=1" alt="" width="288" height="215" data-recalc-dims="1" />My Grandpa passed away on the 18th, and I&#8217;m writing this as we drive back down from Spanish Fork, UT, where we had the memorial service yesterday.  My Grandpa and Grandma married when he was 54&#8230;he inherited a big family, after being a bachelor the whole first part of his life, and probably didn&#8217;t know what he was getting into.  He had an incredible sense of humor, dry and quick, with a smirk and chuckle that made you feel at ease, even if he was giving you a ribbing.  Grandpa used to give me handshakes, whipping my arm all around, making me laugh uncontrollably&#8230;something I turned around on him when I got a little older.  He was a man who had worked hard all his life but always found time for family.  We used to love traveling to Irvine to stay with Grandma and Grandpa&#8230;going to the beach or the waterpark during the day and playing Uno late into the night after Grandpa got home from work.
+
+I loved my Grandpa and no one would have to tell me he was a good man.  What no one seemed to know the full extent of, though, was that my Grandpa was a true humble hero.  He had served in WWII&#8230;enlisting in the Coast Guard (because he was too short for the Marine Corps) and serving aboard a Navy ship as the coxswain of the landing craft that brought the troops ashore in North Africa and the Pacific.  His actions garnered him a meritorious promotion, which is obviously commendable in and of itself.  What no one seemed to know, however, is that he had been awarded the <a title="Bronze Star Medal" href="http://en.wikipedia.org/wiki/Bronze_Star_Medal" target="_blank">Bronze Star Medal</a> (the fourth highest combat award) as a 2nd or 3rd Class Petty Officer.  My military friends will appreciate the rarity of an award like that being awarded to so junior a sailor.  To put it in perspective, when the ship I was on engaged in offensive missile strikes against Afghanistan in 2001 the ship&#8217;s captain, a Navy Commander, was awarded the Bronze Star.  Grandpa was about 10 ranks below Commander .  I&#8217;m not sure what the award was given for and, while I would like to know, I don&#8217;t think it matters too terribly much&#8230;I am most impressed by my Grandpa&#8217;s humility.  As the minister at the service pointed out yesterday, my Grandpa was truly part of the greatest generation&#8230;a man who loved his country and family and always had a strong sense of duty.
+
+I would encourage each of you reading this to take a moment to call your grandparents and/or parents&#8230;aunts and uncles&#8230;family.  We all said yesterday how much we wished it wouldn&#8217;t take a death in the family to bring us all back together.  Life is busy, to be sure, but the eternal souls God puts around us for the few, quick years we have on this planet are worth more than we will probably ever comprehend.  I encourage you&#8230;myself&#8230;to remember that in the midst of the busyness.
+
+Love you, Grandpa.  Fair winds and following seas&#8230;
+
+<img class="alignleft" title="Grandma and Grandpa" src="https://i2.wp.com/lh6.googleusercontent.com/_gNb0_qqamzE/TY90V307b7I/AAAAAAAAJLE/F7Se_0EqsBQ/s144/IMG_20110326_113201.jpg?resize=144%2C108&#038;ssl=1" alt="" width="144" height="108" data-recalc-dims="1" />

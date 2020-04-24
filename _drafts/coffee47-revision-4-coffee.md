@@ -1,0 +1,22 @@
+---
+id: 54
+title: coffee
+date: 2010-02-20T19:51:12-08:00
+author: brian
+layout: revision
+guid: http://www.carotidbattery.com/?p=54
+permalink: /2010/02/47-revision-4/
+---
+<a>Dog Bowl Coffee Roasting</a>Roasted coffee today.  Nicaragua Limoncillo Pacamara Dry-Process from <a title="Sweet Maria's" href="http://www.sweetmarias.com/" target="_blank">Sweet Maria’s</a> was the bean of the day.  The description reads as follows: “A very exotic cup, a true fruit bomb coffee.  Intense fruit and chocolate flavors, papaya, fruit punch, dried apricot, tobacco, brandy, bittersweet, low acidity.”  A true fruit bomb, indeed.  It’s a very interesting flavor and I really like it.  Very different from the Honduran beans that I roasted a few weeks back.  Anyways, here are some pictures/videos from the two adventures in roasting.  Looking forward to more.
+
+[<img class="alignnone size-medium wp-image-49" title="Heatgun, Beer and Beans" src="https://i0.wp.com/www.carotidbattery.com/wp-content/uploads/2010/02/GPS_097-300x225.jpg?resize=300%2C225" alt="" width="300" height="225" srcset="https://i2.wp.com/carotidbattery.com/wp-content/uploads/2010/02/GPS_097.jpg?resize=300%2C225 300w, https://i2.wp.com/carotidbattery.com/wp-content/uploads/2010/02/GPS_097.jpg?resize=1024%2C768 1024w, https://i2.wp.com/carotidbattery.com/wp-content/uploads/2010/02/GPS_097.jpg?w=2048 2048w, https://i2.wp.com/carotidbattery.com/wp-content/uploads/2010/02/GPS_097.jpg?w=1280 1280w, https://i2.wp.com/carotidbattery.com/wp-content/uploads/2010/02/GPS_097.jpg?w=1920 1920w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />](https://i1.wp.com/www.carotidbattery.com/wp-content/uploads/2010/02/GPS_097.jpg)
+
+[<img class="alignnone" title="Roasting 1" src="https://i2.wp.com/lh5.ggpht.com/_gNb0_qqamzE/S4CrjA9MBnI/AAAAAAAAE_E/kmrXnRIuLK0/s400/IMG_5872.JPG?resize=225%2C400" alt="" width="225" height="400" data-recalc-dims="1" />](null)
+
+[<img class="alignnone" title="Roasting 2" src="https://i1.wp.com/lh5.ggpht.com/_gNb0_qqamzE/S4CrjzFt_FI/AAAAAAAAE_I/-pPE34mGe20/s400/IMG_5878.JPG?resize=400%2C225" alt="" width="400" height="225" data-recalc-dims="1" />](null)
+
+[<img class="alignnone" title="Roasting 3" src="https://i0.wp.com/lh3.ggpht.com/_gNb0_qqamzE/S4Crk1IvYPI/AAAAAAAAE_Q/aPkOLaOqPlE/s400/IMG_5883.JPG?resize=225%2C400" alt="" width="225" height="400" data-recalc-dims="1" />](null)
+
+[<img class="alignnone" title="Roasting 4" src="https://i2.wp.com/lh5.ggpht.com/_gNb0_qqamzE/S4Crl7_xiDI/AAAAAAAAE_Y/nqelYmfwtKg/s400/IMG_6003.JPG?resize=400%2C327" alt="" width="400" height="327" data-recalc-dims="1" />](null)
+
+[<img class="alignnone" title="Roasting 5" src="https://i0.wp.com/lh6.ggpht.com/_gNb0_qqamzE/S4CrkeoEbTI/AAAAAAAAE_M/-cXsWeq9Xxo/s400/IMG_5887.JPG?resize=286%2C400" alt="" width="286" height="400" data-recalc-dims="1" />](null)

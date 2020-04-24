@@ -1,0 +1,30 @@
+---
+id: 322
+title: Entitlement
+date: 2015-08-05T23:58:34-07:00
+author: admin
+layout: post
+guid: http://www.carotidbattery.com/?p=322
+permalink: /?p=322
+categories:
+  - Thoughts
+---
+When I think of the word entitlement, I instantly think of rich people&#8230;mostly because that is easy, convenient, and a little obvious here in Southern California.  I&#8217;ve complained about the apparent entitlement of the rich on a number of occasions, in my own heart and to my friends, etc.
+
+And, now that I&#8217;ve mentioned the main point of this post, let me take a quick detour away from it.
+
+I like to categorize things, places, people, because it makes life a lot easier and straight forward&#8230;even controllable.  If I build a little code of rules to work off of, turning life into a series of if-then statements, then it takes all of the messy guesswork out of things. For example, if all BMW drivers are predetermined to be jerks, then it gives me a little bit of (false) control over them and the circumstances each time I see a BMW driver do a jerk kind of thing.  &#8220;I knew they were going to do that.  No surprises there. Just proved my little code book correct&#8230; Again!&#8221; (Internal high fives.)
+
+The problem with this type of thinking is that&#8230;well, there are multiple problems with this.  Here are a few:
+
+  1. I use an insanely, unfairly broad brush when I make these types of judgments.  Clearly not all BMW drivers are jerks.  And the ones that are jerks when I encounter them are not jerks all of the time.  They probably go home and play with their kids and take the trash out.
+  2. I&#8217;m not in control&#8230;I wasn&#8217;t before I categorized BMW drivers as jerks and I&#8217;m not afterwards either.  It&#8217;s a silly attempt to try to make sense of something that I don&#8217;t like and it&#8217;s worse than ineffective, because the only one that suffers in the process is me.  Bitterness takes root in these kinds of thoughts.
+  3. Lastly, and as a return from my detour, this kind of thinking belies a very incomplete understanding of my own entitlement.
+
+I&#8217;m entitled&#8230;dear goodness, am I entitled.  I&#8217;m entitled to the lane I&#8217;m driving in and to everyone&#8217;s common courtesy as they move in and around my lane&#8230;MY LANE!  I&#8217;m entitled to my spot in line at the restaurant.  If you want to be entitled to your spot, that&#8217;s fine&#8230;but it&#8217;s at the back of the line.  That&#8217;s where your spot can be.  You&#8217;re entitled to that.  I&#8217;m entitled to my thoughts and opinions.  If yours differ from mine, that&#8217;s fine.  Don&#8217;t expect me to care or to allow your thoughts and opinions in to possibly influence mine.  That wouldn&#8217;t be very courteous of you.  I&#8217;m entitled in so many ways, it&#8217;s uncomfortable.  It hurts when I spend time thinking about it.  So I don&#8217;t.  I think about how other people are entitled.  Rich people make an easy target.  Their entitlements are so much more egregious than mine&#8230;no one would take issue with me not letting someone in to my lane when there&#8217;s a BMW right over there that just passed the whole line of cars on the shoulder because wherever they&#8217;re going is so much more important than the rest of us.  So, if we&#8217;re comparing entitlements along these kinds of lines, then I think I&#8217;m doing pretty well.  Some would even say I&#8217;m just being reasonable or observant.  And I think they&#8217;re right until I consider who the different players are in this entitlement comparison game.  If it&#8217;s just Jerk BMW guy and me, well then I win.  But the moment you throw Jesus into the conversation the Jerk BMW guy and I look so inconsequentially different that it&#8217;s not even worth trying to decipher between the shades of black between us&#8230;if there even are any.
+
+Jesus was and is the most rightfully entitled person to ever walk this planet.  At the right hand of the Father, he is the first and last, and <a href="https://www.biblegateway.com/passage/?search=Colossians+1:15-19" target="_blank">&#8220;all things have been created through him and for him.&#8221;</a>  He owns it all, even my lane&#8230;sorry&#8230;his lane.  He gets to go to the front of the line at every restaurant, bank, grocery store, what-have-you in the Universe, every time.  And then we see Jesus give up every entitlement he had&#8230;he willingly laid all of that down&#8230;and he lived a life down here with us.  He traveled the 4-lane donkey highways where that one guy was really being an ass (sorry, I couldn&#8217;t pass that one up), he waited behind the person at the grocery store who takes little bites of items they haven&#8217;t yet purchased&#8230;and he was called a liar, was told that he disrespected God (his own Father), and was accused of all sorts of things he didn&#8217;t do&#8230;and he was spit upon, beaten and killed for crimes he didn&#8217;t commit.
+
+So where does that leave me?  As a follower of Christ, I am called to do just that&#8230;to follow&#8230;to follow the example Christ laid out before me&#8230;and there is no part of Christ&#8217;s example that can even narrowly be interpreted as enforcing entitlements.  It is the exact opposite, time and again.  So whether the BMW driver feels entitled to the mythical fifth lane, or I (with the gigantic rough-sawn log sticking out of my eye) feel entitled to the comfort of my little rule-following bubble in Lane 3, the entitlement is the same.  And it stinks!  There is absolutely nothing of benefit for me in the practice of comparing entitlements.  They all stink, and they have no place in the heart of someone looking to follow Christ&#8217;s example.
+
+I would like to close by saying I&#8217;m sorry to any/all BMW drivers who may have stumbled upon this.  You have been unfairly singled out for the sake of my post, and I ask for your forgiveness.  And if you are an in considerate driver then I politely ask you to reevaluate your driving habits.  Thank you.
