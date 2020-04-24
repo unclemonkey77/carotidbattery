@@ -1,0 +1,25 @@
+---
+id: 247
+title: 'July 2: Self-Imposed Detours and Backtracks'
+date: 2006-07-03T22:43:00+00:00
+author: admin
+layout: post
+guid: http://carotidbattery.com/?p=103
+permalink: /2006/07/03/july-2-self-imposed-detours-and-backtracks-2/
+post_views_count:
+  - "47"
+categories:
+  - Moto Trip
+---
+[<img style="float: right" alt="Butchart Gardens 5" src="http://static.flickr.com/70/180482445_a6d744389b_s.jpg" width="75" height="75" />](http://www.flickr.com/photos/64293054@N00/180482445/ "Photo Sharing")
+
+<span><span style="text-decoration: none"><span style="font-style: normal"><font size="2"><font face="Tahoma"><font color="#000000">Yesterday was one of the more frustrating days of the trip thus far. Frustrating, because things didn&#8217;t quite go as planned. It was a good day, though, and looking back on it I feel silly for being frustrated&#8230;I got to see and do some amazing things today. I woke up early and drove down to the ferry landing in Port Angeles, getting there right at 7 to ensure my place on the 8:20 to Victoria. We crossed the Strait of Juan de Fuca and I was off the boat at about 10:15. I had three things planned for Victoria: see the Empress Hotel, go to Buchart Gardens and drive up the 1 to Nanaimo to catch the 3:15 ferry to Vancouver. I went one for three&#8230;I missed the 3:15 ferry. Why was I late? Because I didn&#8217;t trust the GPS lady&#8217;s voice, telling me to turn around and take a different route. I thought the way I was going would work just as well, but it didn&#8217;t and it took me 25 miles to correct that mistake. Sadly, I didn&#8217;t get to Nanaimo until 3:25. Stink. The ride up was nice, though, and it was fun to drive next to routes that I had navigated the ship through several years back. Buchart Gardens was impressive and beautiful, full of plants, trees and flowers from around the world. It used to be an old limestone quarry but was transformed by Mrs. Buchart into an colorful, peaceful (except for all of us loud tourists) landscape. Overheard quote of the day: a boy saying to his mother, "Will the garden have variety?"</font><font color="#000000">&#160; </font></font></font></span></span></span>
+
+[<img alt="Butchart Gardens 1" src="http://farm1.static.flickr.com/62/180481064_cc68abea0f_t.jpg" width="100" height="75" />](http://www.flickr.com/photos/carotidbattery/180481064/ "Butchart Gardens 1 by carotidbattery, on Flickr") [<img alt="Butchart Gardens 3" src="http://static.flickr.com/56/180481069_be5c33588f_t.jpg" width="100" height="75" />](http://www.flickr.com/photos/64293054@N00/180481069/ "Photo Sharing") [<img alt="Butchart Gardens 4" src="http://static.flickr.com/78/180481070_1656b4c9ba_t.jpg" width="100" height="75" />](http://www.flickr.com/photos/64293054@N00/180481070/ "Photo Sharing") [<img alt="Butchart Gardens 6" src="http://static.flickr.com/44/180482446_ec9543a264_t.jpg" width="100" height="75" />](http://www.flickr.com/photos/64293054@N00/180482446/ "Photo Sharing")
+
+<span><span style="text-decoration: none"><span style="font-style: normal"><font size="2"><font color="#000000" face="Tahoma">Anyways, I took the ferry back to Vancouver (video below of a bunch of us exiting the ferry), dealt with city traffic, and made my way back down to Oak Harbor, WA, to stay with some friends of my brother&#8217;s.&#160; What?&#160; Back to Washington?&#160; Yeah, I&#8217;m meeting someone in the Seattle area today and then heading back up into Canada for the <em>long</em> part of the trip.&#160; Which brings me to this sad truth&#8230;I probably won&#8217;t be quite as regular in keeping my blog up to date as I go through Canada.&#160; Cingular charges me big dollah to use the service of other lands and uploading pictures and video would cost me a bundle&#8230;and I&#8217;m unemployed.&#160; So, if I can make it to some WIFI areas then you&#8217;ll get some updates, otherwise you&#8217;ll have to wait until I make it to Alaska.&#160; Or maybe I can get sponsored by Yamaha and get a sweet satellite hookup.&#160; Anyways, till next time&#8230;</font></font></span></span></span>
+
+<embed src="http://www.youtube.com/v/LCa_zHjilFE" width="425" height="350" type="application/x-shockwave-flash">
+</embed>
+
+[<img alt="Empress Hotel" src="http://farm1.static.flickr.com/57/180481062_f4ba34cb45_t.jpg" width="100" height="75" />](http://www.flickr.com/photos/carotidbattery/180481062/ "Empress Hotel by carotidbattery, on Flickr") [<img alt="Tied up in the ferry" src="http://static.flickr.com/55/180481061_198580dc05_t.jpg" width="100" height="75" />](http://www.flickr.com/photos/64293054@N00/180481061/ "Photo Sharing") [<img alt="Ferry to Vancouver" src="http://static.flickr.com/52/180482447_965f3568fb_t.jpg" width="100" height="75" />](http://www.flickr.com/photos/64293054@N00/180482447/ "Photo Sharing")

@@ -1,0 +1,14 @@
+---
+id: 271
+title: Another Year, Another Trip
+date: 2007-07-10T09:59:00+00:00
+author: admin
+layout: post
+guid: http://carotidbattery.com/?p=128
+permalink: /2007/07/10/another-year-another-trip-2/
+post_views_count:
+  - "34"
+categories:
+  - Uncategorized
+---
+ <p><a title="IMG\_0112" href="http://www.flickr.com/photos/64293054@N00/766162127/"><img height="79" alt="IMG\_0112" src="http://static.flickr.com/1018/766162127_07ea6d3bc0.jpg" width="105" align="left" border="0" alignment="right" /></a>A year ago today I was camping in Coldfoot, AK, getting ready for the final push to the Arctic Ocean and balmy 31° temperatures.  Today I drove through the beautiful Mojave Desert&#8230;all 111° of it.  I&#8217;ve got two extra wheels and an extra passenger this time, though, which makes all the difference&#8230;especially when the extra passenger is my beautiful new wife.</p> <p>I took some time off of work so we&#8217;ve hit the road for a week of camping and backpacking&#8230;a week that will most likely hurt us, but hopefully in a good way.  Neither of us are in the best shape of our lives (which should translate as: I won&#8217;t comment for her, but I think I&#8217;m in the worst shape of my life), and it&#8217;s pretty stinking hot out here.  The car said 111 and the big thermometer in Baker, CA, said 113 as we drove through at 6:10pm.  How do people live in places like this?  I&#8217;ve never been able to figure that out?  I thought the same thing when I was in the Arabian Gulf, too.  Craziness.  It was still in the 100&#8217;s as we were driving at 9pm&#8230;</p> <p>Today wa s a long one.  We drove from Santa Rosa, CA, to Hurricane, UT&#8230;about 750 miles.  We made really good time, though&#8230;except for the hour we lost in time zone changes.  Nothing too exciting from today, so I&#8217;ll keep this short.  The rest of the week should be a ton of fun, though&#8230;hiking at Zion National Park tomorrow, Bryce Canyon National Park the following day, Grand Staircase the day after that, and the Grand Canyon to round things off.  I&#8217;m going to try to record the GPS of our hikes and will hopefully post that along with some pictures and videos from the days&#8217; adventures.  But it&#8217;s time for bed now&#8230;seeya when I seeya.</p> <p>(One humorous P.S. to relay&#8230;when I was on the motorcycle trip I would post something on my blog and then talk to my (then) girlfriend shortly thereafter to see what she thought.  She would give me her general impressions and correct any mistakes, grammar or otherwise.  It&#8217;s a lot easier to have my editor right here along with me&#8230;the corrections are more real-time.)</p>

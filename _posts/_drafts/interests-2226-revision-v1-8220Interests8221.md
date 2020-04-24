@@ -1,0 +1,12 @@
+---
+id: 396
+title: '&#8220;Interests&#8221;'
+date: 2016-03-16T13:30:01+00:00
+author: admin
+layout: revision
+guid: http://old.carotidbattery.com/?p=396
+permalink: /2016/03/16/226-revision-v1/
+---
+<p class="MsoNormal">
+  Ok, so this kindof <a href="http://news.bbc.co.uk/2/hi/americas/4815912.stm">stuff</a> always bums me out.   Being a Christian myself, I have to wonder what angle these folks are taking.  The most telling line in the article states that these so-called Christian leaders are telling the Republicans in Congress that they &#8220;did not feel that Congress was advancing their interests.&#8221;  But what are their &#8220;interests&#8221;?  Or, more importantly, what <em>should</em> their interests be?  Is the Christian interest merely good, ethical behavior?  Sheez, I hope not.  That&#8217;s like putting a bandaid on a gangrenous wound.  It makes it pretty and palatable for a time, but the inside turns rotten and eventually dies.  The Bible&#8217;s pretty clear as to what&#8217;s right and what&#8217;s wrong, but it&#8217;s also very clear that the real issue is not the wrong we do so much as it is the <em>reason</em> for the wrong we do.  I&#8217;m not going to get all preachy here (because I&#8217;m guilty of the very thing I&#8217;m criticizing, both in expecting others to deal with symptoms rather than root causes and in applying bandaids to my own gangrenous wounds), but I just have to wonder what the motivation is.  Are we trying to enforce ethical behavior or is the goal to actually change hearts.  If our goal is the latter, then we had better start looking somewhere other than Congress for our catalyst for change.
+</p>
