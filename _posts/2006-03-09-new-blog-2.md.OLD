@@ -1,8 +1,10 @@
 ---
+id: 221
 title: new blog
 date: 2006-03-09T11:30:00+00:00
 author: admin
-layout: single
+layout: post
+guid: http://carotidbattery.com/?p=77
 permalink: /2006/03/09/new-blog-2/
 post_views_count:
   - "33"
