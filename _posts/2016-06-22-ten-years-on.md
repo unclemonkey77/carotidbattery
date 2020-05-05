@@ -25,7 +25,7 @@ tags:
   </div>
 
 <div class="_1mf _1mj" data-offset-key="8mn2f-0-0">
-  ![Ten Years On Image](/wp-content/uploads/2016/06/IMGP3774.jpg)   
+ 
   </div>
   
   
