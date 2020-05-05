@@ -25,10 +25,9 @@ tags:
   </div>
 
 <div class="_1mf _1mj" data-offset-key="8mn2f-0-0">
-     
+  ![Ten Years On Image](/wp-content/uploads/2016/06/IMGP3774.jpg)   
   </div>
   
-![Ten Years On Image](/wp-content/uploads/2016/06/IMGP3774.jpg)
   
   <div class="_1mf _1mj" data-offset-key="8mn2f-0-0">
     <span data-offset-key="8mn2f-0-0"><span data-text="true">Ten years ago, fresh out of the Navy and having just met the woman I would end up marrying, I set out from Big Bear, CA, on what was to be an 11,000 mile motorcycle trip that took me to the top of Alaska and back. It was before the days of uber-capable smartphones and GoPros, so I made the only rational decision&#8230;to build a computer with a touchscreen, name it MotoCompy, and mount it in a magnetic bag that <a href="https://www.flickr.com/photos/carotidbattery/172487267/in/photostream/" target="_blank">sat on my gas tank</a>. I stuck a webcam on the front of the bike and recorded my GPS track. Yeah, I know&#8230;I’m a nerd. I grew <a href="https://www.flickr.com/photos/carotidbattery/240269052/" target="_blank">awful facial hair</a>, I had a moose run through my campsite, I came close to hitting a deer and being hit by a semi, <a href="https://www.flickr.com/photos/carotidbattery/187131580/" target="_blank">I jumped in the Arctic ocean</a>, I got (and patched) a <a href="https://www.flickr.com/photos/carotidbattery/187124056/" target="_blank">flat tire</a> in an area where a wolf had chased another motorcyclist the day before, I went to the <a href="https://www.flickr.com/photos/carotidbattery/178861890/" target="_blank">Goonies house</a>, and I witnessed bored people <a href="https://www.youtube.com/watch?v=CQiBtbFqzq8" target="_blank">exploding women’s undergarments</a> in Chicken, AK&#8230;because there’s nothing much else to do in Chicken, AK. I kept a blog (very 2006) and I posted from the road most nights. </span></span>
