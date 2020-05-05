@@ -20,11 +20,13 @@ tags:
      
   </div>
   
-  <div class="_1mf _1mj" data-offset-key="8mn2f-0-0">
+<!--  <div class="_1mf _1mj" data-offset-key="8mn2f-0-0">
     <img class="  wp-image-355 aligncenter" src="https://i1.wp.com/www.carotidbattery.com/wp-content/uploads/2016/06/IMGP3774.jpg?resize=639%2C479" alt="IMGP3774" width="639" height="479" srcset="https://i1.wp.com/carotidbattery.com/wp-content/uploads/2016/06/IMGP3774.jpg?w=2304 2304w, https://i1.wp.com/carotidbattery.com/wp-content/uploads/2016/06/IMGP3774.jpg?resize=300%2C225 300w, https://i1.wp.com/carotidbattery.com/wp-content/uploads/2016/06/IMGP3774.jpg?resize=768%2C576 768w, https://i1.wp.com/carotidbattery.com/wp-content/uploads/2016/06/IMGP3774.jpg?resize=1024%2C768 1024w, https://i1.wp.com/carotidbattery.com/wp-content/uploads/2016/06/IMGP3774.jpg?resize=700%2C525 700w, https://i1.wp.com/carotidbattery.com/wp-content/uploads/2016/06/IMGP3774.jpg?w=1280 1280w, https://i1.wp.com/carotidbattery.com/wp-content/uploads/2016/06/IMGP3774.jpg?w=1920 1920w" sizes="(max-width: 639px) 100vw, 639px" data-recalc-dims="1" />
-  </div>
+  </div> -->
   
-  <div class="_1mf _1mj" data-offset-key="8mn2f-0-0">
+![alt text](https://carotidbattery.com/wp-content/uploads/2016/06/IMGP3774.jpg "Ten Years On")
+
+<div class="_1mf _1mj" data-offset-key="8mn2f-0-0">
      
   </div>
   
