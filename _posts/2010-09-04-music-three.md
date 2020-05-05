@@ -21,4 +21,6 @@ enclosure:
 categories:
   - Music
 ---
-a song glen and i recorded in my garage in the year 2005.  we called it &#8220;three&#8221; because we recorded it after &#8220;two&#8221;. <audio controls src="/wp-content/uploads/2010/09/three.mp3">
+a song glen and i recorded in my garage in the year 2005.  we called it &#8220;three&#8221; because we recorded it after &#8220;two&#8221;. 
+
+<audio controls src="/wp-content/uploads/2010/09/three.mp3">
