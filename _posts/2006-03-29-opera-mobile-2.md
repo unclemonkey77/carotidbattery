@@ -4,6 +4,7 @@ title: Opera Mobile
 date: 2006-03-29T04:31:00+00:00
 author: admin
 layout: post
+published: false
 guid: http://carotidbattery.com/?p=83
 permalink: /2006/03/29/opera-mobile-2/
 post_views_count:
