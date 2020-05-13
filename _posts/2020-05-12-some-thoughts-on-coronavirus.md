@@ -4,6 +4,7 @@ title: Some Thoughts on the Virus
 author: brian
 layout: post
 guid: http://www.carotidbattery.com/?p=340
+published: false
 categories:
   - Photos
   - Thoughts
