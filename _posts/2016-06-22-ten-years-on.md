@@ -10,10 +10,7 @@ image: /wp-content/uploads/2016/06/IMGP3774.jpg
 categories:
   - Photos
   - Thoughts
-tags:
-  - alaska
-  - motorcycle
-  - roadtrip
+tags: [alaska, motorcycle, roadtrip]
 ---
 <div class="" data-block="true" data-editor="epr4r" data-offset-key="8mn2f-0-0">
   <div class="_1mf _1mj" data-offset-key="8mn2f-0-0">
