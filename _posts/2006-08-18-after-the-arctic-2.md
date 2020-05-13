@@ -10,6 +10,12 @@ post_views_count:
   - "139"
 categories:
   - Moto Trip
+
+tags:
+  - alaska
+  - motorcycle
+  - roadtrip
+
 ---
 <p align="center">
   <a title="Photo Sharing" href="http://www.flickr.com/photos/carotidbattery/218254386/"><img src="http://static.flickr.com/75/218254386_924e80e3a0.jpg" alt="Trip Start to Finish" width="500" height="412" /></a>
