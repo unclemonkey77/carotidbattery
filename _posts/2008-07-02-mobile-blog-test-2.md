@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=129
 permalink: /2008/07/02/mobile-blog-test-2/
+published: false
 post_views_count:
   - "42"
 categories:
