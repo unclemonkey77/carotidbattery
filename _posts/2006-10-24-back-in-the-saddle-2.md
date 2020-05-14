@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=122
 permalink: /2006/10/24/back-in-the-saddle-2/
+published: false
 post_views_count:
   - "37"
 categories:
