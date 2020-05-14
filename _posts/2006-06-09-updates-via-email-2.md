@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=91
 permalink: /2006/06/09/updates-via-email-2/
+published: false
 post_views_count:
   - "33"
 categories:
