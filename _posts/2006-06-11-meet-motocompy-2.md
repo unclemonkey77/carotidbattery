@@ -12,7 +12,8 @@ categories:
   - Moto Trip
 ---
 Part One:
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSWt8G5G1Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Part Two:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LFIqM5nyeBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
