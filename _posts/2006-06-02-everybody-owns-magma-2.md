@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=89
 permalink: /2006/06/02/everybody-owns-magma-2/
+published: false
 post_views_count:
   - "28"
 categories:
