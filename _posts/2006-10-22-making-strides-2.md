@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=121
 permalink: /2006/10/22/making-strides-2/
+published: false
 post_views_count:
   - "34"
 categories:
