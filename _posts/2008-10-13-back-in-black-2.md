@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=132
 permalink: /2008/10/13/back-in-black-2/
+published: false
 post_views_count:
   - "45"
 categories:
