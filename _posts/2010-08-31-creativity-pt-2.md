@@ -6,6 +6,7 @@ author: brian
 layout: post
 guid: http://www.carotidbattery.com/?p=130
 permalink: /2010/08/creativity-pt-2/
+published: false
 aktt_notify_twitter:
   - 'yes'
 aktt_tweeted:
