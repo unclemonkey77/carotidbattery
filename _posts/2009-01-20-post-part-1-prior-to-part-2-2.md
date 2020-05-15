@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=141
 permalink: /2009/01/20/post-part-1-prior-to-part-2-2/
+published: false
 post_views_count:
   - "81"
 categories:
