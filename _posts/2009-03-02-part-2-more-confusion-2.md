@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=144
 permalink: /2009/03/02/part-2-more-confusion-2/
+published: false
 post_views_count:
   - "100"
 categories:
