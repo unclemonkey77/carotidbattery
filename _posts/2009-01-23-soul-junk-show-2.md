@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=143
 permalink: /2009/01/23/soul-junk-show-2/
+published: false
 post_views_count:
   - "83"
 categories:
