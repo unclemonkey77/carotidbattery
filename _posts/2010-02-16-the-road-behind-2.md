@@ -6,6 +6,7 @@ author: brian
 layout: post
 guid: http://www.carotidbattery.com/?p=8
 permalink: /2010/02/the-road-behind-2/
+published: false
 image_url:
   - http://www.carotidbattery.com/wp-content/uploads/2010/02/motorcycle1.jpg
 image_md5:
