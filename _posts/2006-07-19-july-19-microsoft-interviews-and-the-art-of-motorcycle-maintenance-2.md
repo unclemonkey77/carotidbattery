@@ -11,7 +11,7 @@ post_views_count:
 categories:
   - Moto Trip
 ---
-[<img class="alignleft" style="float: left;" src="http://static.flickr.com/46/191516902_08d520e084_t.jpg" alt="Buffalo" width="100" height="75" />](http://www.flickr.com/photos/64293054@N00/191516902/ "Photo Sharing")
+[<img class="alignleft" style="float: left padding-right:10px;" src="http://static.flickr.com/46/191516902_08d520e084_t.jpg" alt="Buffalo" width="100" height="75" />](http://www.flickr.com/photos/64293054@N00/191516902/ "Photo Sharing")
 
 First off, the [www.on10.net](https://channel9.msdn.com/Blogs/Tina/San-Diego-to-Alaska-with-a-blog-a-camera-and-two-wheels/) interview is up (just went live today) and you can check it out [here](http://channel9.msdn.com/blogs/tina/san-diego-to-alaska-with-a-blog-a-camera-and-two-wheels)!  It was really fun to meet Tina and talk through the project and my trip.  Hope you all like it.
 
