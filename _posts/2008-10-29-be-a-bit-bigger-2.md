@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=134
 permalink: /2008/10/29/be-a-bit-bigger-2/
+published: false
 post_views_count:
   - "86"
 categories:
