@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=140
 permalink: /2009/01/19/part-1-stop-it-microsoft-you-are-confusing-me/
+published: false
 post_views_count:
   - "72"
 categories:
