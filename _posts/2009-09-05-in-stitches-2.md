@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://carotidbattery.com/?p=153
 permalink: /2009/09/05/in-stitches-2/
+published: false
 post_views_count:
   - "95"
 categories:
