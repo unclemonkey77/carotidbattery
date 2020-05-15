@@ -6,6 +6,7 @@ author: admin
 layout: post
 guid: http://www.carotidbattery.com/?p=34
 permalink: /2010/02/lead-worship-leader/
+published: false
 aktt_notify_twitter:
   - 'yes'
 categories:
