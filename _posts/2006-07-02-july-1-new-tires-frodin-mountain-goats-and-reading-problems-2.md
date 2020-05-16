@@ -11,8 +11,6 @@ post_views_count:
 categories:
   - Moto Trip
 ---
-</p> 
-
 I woke up today knowing that I was going to get new tires on my bike and that was about it.&#160; I wasn&#8217;t sure if I was going to head over to Victoria or  
 down towards Seattle.&#160; Again, the wisdom of my girlfriend prevailed and I made plans to enjoy the area that I was already staying in, Port Angeles.&#160;  
 I picked up the bike and decided to break in my new tires on the roads of Olympic National Park.&#160; I started the drive up there and that&#8217;s when things  
