@@ -11,8 +11,6 @@ post_views_count:
 categories:
   - Moto Trip
 ---
-</p> 
-
 It&#8217;s after midnight and the last two days have been longs ones.&#160; 859 miles long, to be exact.&#160; Anyways, I rolled in to Smithers, BC today after riding for over 12 hours and almost 500 miles and after a short look for campsites I gave in and got a room.&#160; The one campsite I found was actually pretty nice, but as soon as I found out that it didn&#8217;t have a shower, I nixed it and moved on.&#160; Anyways, I really need sleep so I&#8217;ll slap a few pictures on here and then I&#8217;ll write more later on.&#160; So here they are: an action shot, bugs, and some fun signs.
 
 [<img alt="View from the road" src="http://static.flickr.com/59/182253141_cd65267104_t.jpg" width="100" height="75" />](http://www.flickr.com/photos/64293054@N00/182253141/ "Photo Sharing") [<img alt="Bugs" src="http://static.flickr.com/54/182253139_2ab65e2ced_t.jpg" width="100" height="75" />](http://www.flickr.com/photos/64293054@N00/182253139/ "Photo Sharing") [<img alt="Eh!" src="http://static.flickr.com/57/182253135_c3092d8dbe_t.jpg" width="100" height="82" />](http://www.flickr.com/photos/64293054@N00/182253135/ "Photo Sharing") [<img alt="Meece!" src="http://static.flickr.com/57/182253138_795255e0e4_t.jpg" width="100" height="86" />](http://www.flickr.com/photos/64293054@N00/182253138/ "Photo Sharing")
